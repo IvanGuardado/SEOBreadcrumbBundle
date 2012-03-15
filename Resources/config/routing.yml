@@ -1,0 +1,3 @@
+CokidooSEOBreadcrumbBundle_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: CokidooSEOBreadcrumbBundle:Default:index }
